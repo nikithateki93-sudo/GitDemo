@@ -18,6 +18,8 @@ public class AppTest
     public void welcome()
     {
         System.out.println("Welcome");
+        System.out.println("Welcome");
+        System.out.println("Welcome");
     }
     @Test
     public void hru()
